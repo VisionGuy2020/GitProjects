@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1576729757",
+    "project_id": "leaguetrivia-fec12",
+    "storage_bucket": "leaguetrivia-fec12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1576729757:android:e8372d8dc7f82e6bd26874",
+        "android_client_info": {
+          "package_name": "com.trivianighthub.leaguetrivia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmzYRyFtn6LowlXXxYOnb4mPqN8Galfw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
