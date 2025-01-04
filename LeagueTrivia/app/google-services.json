@@ -12,7 +12,20 @@
           "package_name": "com.trivianighthub.leaguetrivia"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "1576729757-9gmc31mui5jclisq15k8os7fgbupqfhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trivianighthub.leaguetrivia",
+            "certificate_hash": "59b2e9fe9a76015aa0265701bd2ab5163aae0949"
+          }
+        },
+        {
+          "client_id": "1576729757-1cjenp6ggj3p9s8vaj2p5ek4h9ksga44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAmzYRyFtn6LowlXXxYOnb4mPqN8Galfw0"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1576729757-1cjenp6ggj3p9s8vaj2p5ek4h9ksga44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
